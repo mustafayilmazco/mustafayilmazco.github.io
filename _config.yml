@@ -4,7 +4,6 @@ description: >- # site description
   Cyber Security
 lang: en-US # default lang
 timezone: Europe/Istanbul # set your timezone
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
